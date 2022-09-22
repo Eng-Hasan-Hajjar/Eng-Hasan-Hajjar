@@ -9,7 +9,7 @@
 <hr>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=eng-hasan-hajjar&label=Profile%20views&color=0e75b6&style=flat" alt="eng-hasan-hajjar" /> </p>
 <hr>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eng-hasan-hajjar&row=2&column=3" alt="eng-hasan-hajjar" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eng-hasan-hajjar&row=2&column=3&theme=onedark" alt="eng-hasan-hajjar" /></a> </p>
 <hr>
 - 🌱 I’m currently learning **many frameworks and courses..**
 
