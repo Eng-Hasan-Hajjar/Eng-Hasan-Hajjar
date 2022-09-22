@@ -33,17 +33,17 @@
 
 
 <hr>
-<div style="margin:10px;">    
+<div style="margin:90px;">    
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eng-hasan-hajjar&show_icons=true&locale=en&layout=compact" alt="eng-hasan-hajjar" /></p>
 </div>
 <br>
 <hr>
-<div style="margin:10px;">    
+<div style="margin:90px;">    
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eng-hasan-hajjar&show_icons=true&locale=en" alt="eng-hasan-hajjar" /></p>
 <br>
 </div>
 <hr>
-<div style="margin:10px;">    
+<div style="margin:90px;">    
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eng-hasan-hajjar&" alt="eng-hasan-hajjar" /></p>
 </div>
 <hr>
