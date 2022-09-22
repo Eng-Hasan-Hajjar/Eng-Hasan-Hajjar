@@ -2,7 +2,7 @@
 ## My logo
 <div class="md-col-12" style="display:flex;">
 
-<div align="left" class="md-col-6" style="display:inline;">
+<div align="left" class="md-col-6" style="display:inline;  text-align:center; justify-content: center;">
 <img align="center" src="Eng.Hasan.Hajjar.logo.png" style="width:550px;height:300px;">
 </div>
 <div align="right" class="md-col-6" style="display:inline;">
