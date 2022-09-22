@@ -5,11 +5,11 @@
 <div class="row"  style="display:table; content: "";clear: both; display: table;" >
 
 <div class="column" style="float: left; width: 33.33%; padding: 5px;" >
-    <img align="left"  src="Eng.Hasan.Hajjar.logo.png" style="width:550px;height:300px; display:inline;"  />
+    <img align="left"  src="Eng.Hasan.Hajjar.logo.png" style="width:300px;height:300px; display:inline;"  />
 </div>
 
 <div class="column"  style="float: left; width: 33.33%; padding: 5px;" >
-    <img align="right" alt="GIF" src="PROGRAMMING.gif"  style="width:550px;height:300px; display:inline;" />
+    <img align="right" alt="GIF" src="PROGRAMMING.gif"  style="width:300px;height:300px; display:inline;" />
 </div>
 
 </div>
