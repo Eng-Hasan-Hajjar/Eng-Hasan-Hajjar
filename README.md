@@ -34,7 +34,7 @@
 
 <hr>
 <div style="margin:90px;">    
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eng-hasan-hajjar&show_icons=true&locale=en&layout=compact" alt="eng-hasan-hajjar" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eng-hasan-hajjar&show_icons=true&locale=en&layout=compact&row=2&column=3&theme=onedark&margin-w=85&margin-h=35&no-bg=true&no-frame=true" alt="eng-hasan-hajjar" /></p>
 </div>
 <br>
 <hr>
