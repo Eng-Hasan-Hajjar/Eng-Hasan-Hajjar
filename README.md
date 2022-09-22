@@ -1,7 +1,7 @@
 
 ## My logo
 <div align="center">
-<img align="center" src="Eng.Hasan.Hajjar.logo.png" style="width:150px;height:300px;">
+<img align="center" src="Eng.Hasan.Hajjar.logo.png" style="width:350px;height:300px;">
 </div>
 
 <h1 align="center">Hi 👋, I'm Hasan Hajjar</h1>
@@ -34,8 +34,10 @@
 
 <hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eng-hasan-hajjar&show_icons=true&locale=en&layout=compact" alt="eng-hasan-hajjar" /></p>
+<br>
 <hr>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eng-hasan-hajjar&show_icons=true&locale=en" alt="eng-hasan-hajjar" /></p>
+<br>
 <hr>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eng-hasan-hajjar&" alt="eng-hasan-hajjar" /></p>
 
