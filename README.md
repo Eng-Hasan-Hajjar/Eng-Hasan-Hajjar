@@ -40,7 +40,7 @@
 <hr>
 
 <div align="center" style="margin:0px;">    
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eng-hasan-hajjar&show_icons=true&locale=en&row=2&column=3&theme=onedark&margin-w=850&margin-h=35&no-bg=true&no-frame=true&card_width=950" alt="eng-hasan-hajjar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eng-hasan-hajjar&show_icons=true&locale=en&row=2&column=3&theme=onedark&margin-w=850&margin-h=35&no-bg=true&no-frame=true&card_width=850" alt="eng-hasan-hajjar" /></p>
 <br>
 </div>
 
