@@ -3,8 +3,7 @@
 <div class="row"  style="display: table;" >
 
   <div class="column" style="" >
-
-      <img align="left"  src="Eng.Hasan.Hajjar.logo.png" style="width:550px;height:300px; display:inline;">
+      <img align="left"  src="Eng.Hasan.Hajjar.logo.png" style="width:550px;height:300px; display:inline;"  />
   </div>
   
   <div class="column"  style="" >
