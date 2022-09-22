@@ -1,7 +1,7 @@
 
 ## My logo
 <div align="center">
-<img align="center" src="Eng.Hasan.Hajjar.logo.png" style="width:350px;height:300px;">
+<img align="center" src="Eng.Hasan.Hajjar.logo.png" style="width:550px;height:300px;">
 </div>
 
 <h1 align="center">Hi 👋, I'm Hasan Hajjar</h1>
