@@ -3,9 +3,9 @@
 <div >
 
 
-<img align="left"  src="Eng.Hasan.Hajjar.logo.png" style="width:550px;height:300px;float:left; display:inline;  text-align:center; justify-content: center;">
+<img align="left"  src="Eng.Hasan.Hajjar.logo.png" style="width:550px;height:300px; display:inline;">
 
-<img align="right" alt="GIF" src="./PROGRAMMING.gif"  style="width:550px;height:300px;float:left; display:inline;  text-align:center; justify-content: center;" />
+<img align="right" alt="GIF" src="./PROGRAMMING.gif"  style="width:550px;height:300px; display:inline;" />
 
 
 </div>
