@@ -1,25 +1,14 @@
 
 ## My logo
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
 
 
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
+<div class="row"  style="display:table; content: "";clear: both; display: table;" >
 
-<div class="row"  style="display:table;" >
-
-<div class="column" style="" >
+<div class="column" style="float: left; width: 33.33%; padding: 5px;" >
     <img align="left"  src="Eng.Hasan.Hajjar.logo.png" style="width:550px;height:300px; display:inline;"  />
 </div>
 
-<div class="column"  style="" >
+<div class="column"  style="float: left; width: 33.33%; padding: 5px;" >
     <img align="right" alt="GIF" src="PROGRAMMING.gif"  style="width:550px;height:300px; display:inline;" />
 </div>
 
