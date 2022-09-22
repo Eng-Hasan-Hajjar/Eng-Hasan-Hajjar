@@ -1,8 +1,16 @@
 
 ## My logo
-<div align="center">
+<div class="md-col-12">
+
+<div align="left" class="md-col-6">
 <img align="center" src="Eng.Hasan.Hajjar.logo.png" style="width:550px;height:300px;">
 </div>
+<div align="right" class="md-col-6">
+<img align="center" alt="GIF" src="./PROGRAMMING.gif" width="500" height="320" />
+</div>
+
+</div>
+
 
 <h1 align="center">Hi 👋, I'm Hasan Hajjar</h1>
 <h3 align="center">A passionate full stack developer from Syria-Aleppo.</h3>
@@ -23,7 +31,7 @@
 
 - ⚡ Fun fact **I think I am funny**
 
-<img align="right" alt="GIF" src="./PROGRAMMING.gif" width="500" height="320" />
+
 
 
 
