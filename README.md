@@ -7,12 +7,13 @@
   </div>
   
   <div class="column"  style="" >
-      <img align="right" alt="GIF" src="./PROGRAMMING.gif"  style="width:550px;height:300px; display:inline;" />
+      <img align="right" alt="GIF" src="PROGRAMMING.gif"  style="width:550px;height:300px; display:inline;" />
   </div>
 
 </div>
 
-
+<hr>
+<br>
 <h1 align="center">Hi 👋, I'm Hasan Hajjar</h1>
 <h3 align="center">A passionate full stack developer from Syria-Aleppo.</h3>
 <hr>
