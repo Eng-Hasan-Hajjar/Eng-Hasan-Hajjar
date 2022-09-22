@@ -2,10 +2,10 @@
 ## My logo
 <div class="md-col-12">
 
-<div align="left" class="md-col-6">
+<div align="left" class="md-col-6" style="display:inline;">
 <img align="center" src="Eng.Hasan.Hajjar.logo.png" style="width:550px;height:300px;">
 </div>
-<div align="right" class="md-col-6">
+<div align="right" class="md-col-6" style="display:inline;">
 <img align="center" alt="GIF" src="./PROGRAMMING.gif" width="500" height="320" />
 </div>
 
