@@ -58,15 +58,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eng-hasan-hajjar&row=2&column=3&theme=onedark&margin-w=850&margin-h=35&no-bg=true&no-frame=true&card_width=1500" alt="eng-hasan-hajjar" /></p>
 </div>
 
-<hr>
 
 
-<a href="https://github.com/Eng-Hasan-Hajjar/Eng-Hasan-Hajjar/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Eng-Hasan-Hajjar&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/Eng-Hasan-Hajjar/Eng-Hasan-Hajjar/LMS-Laravel-Learn-Management-System">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Eng-Hasan-Hajjar&repo=convoychat" />
-</a>
 
 <hr>
 
