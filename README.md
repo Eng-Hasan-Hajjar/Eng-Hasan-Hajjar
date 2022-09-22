@@ -1,6 +1,6 @@
 
 ## My logo
-<div class="md-col-12" >
+<div >
 
 
 <img align="left" class="md-col-6" src="Eng.Hasan.Hajjar.logo.png" style="width:550px;height:300px;float:left; display:inline;  text-align:center; justify-content: center;">
