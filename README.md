@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 ## my logo
 <div>
-<img src="Eng.Hasan.Hajjar.logo.png" style="heigh=100px;">
+<img src="Eng.Hasan.Hajjar.logo.png" style="width:200px;height:400px;">
 </div>
