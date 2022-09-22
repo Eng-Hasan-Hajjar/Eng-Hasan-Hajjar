@@ -7,9 +7,9 @@
 <h1 align="center">Hi 👋, I'm Hasan Hajjar</h1>
 <h3 align="center">A passionate full stack developer from Syria-Aleppo.</h3>
 <hr>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eng-hasan-hajjar&label=Profile%20views&color=0e75b6&style=flat" alt="eng-hasan-hajjar" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=eng-hasan-hajjar&label=Profile%20views&color=0e75b6&style=flat" alt="eng-hasan-hajjar" /> </p>
 <hr>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eng-hasan-hajjar" alt="eng-hasan-hajjar" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eng-hasan-hajjar" alt="eng-hasan-hajjar" /></a> </p>
 <hr>
 - 🌱 I’m currently learning **many frameworks and courses..**
 
