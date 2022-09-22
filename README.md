@@ -38,6 +38,7 @@
 </div>
 <br>
 <hr>
+<!-- 
 <div style="margin:90px;">    
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eng-hasan-hajjar&show_icons=true&locale=en" alt="eng-hasan-hajjar" /></p>
 <br>
@@ -46,6 +47,7 @@
 <div style="margin:90px;">    
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eng-hasan-hajjar&" alt="eng-hasan-hajjar" /></p>
 </div>
+-->
 <hr>
 
 
