@@ -37,8 +37,6 @@
 </p>
 
 
-
-
 <hr>
 <div  align="center" style="margin:0px;">    
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eng-hasan-hajjar&card_width=750&show_icons=true&locale=en&layout=compact&row=2&column=3&theme=onedark&margin-w=850&margin-h=35&no-bg=true&no-frame=true" alt="eng-hasan-hajjar" /></p>
