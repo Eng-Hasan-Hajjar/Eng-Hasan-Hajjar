@@ -38,20 +38,20 @@
 
 
 <hr>
-<div  align="center" style="margin:0px;">    
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eng-hasan-hajjar&card_width=750&show_icons=true&locale=en&layout=compact&row=2&column=3&theme=onedark&margin-w=150&margin-h=35&no-bg=true&no-frame=true" alt="eng-hasan-hajjar" /></p>
+<div  align="left" style="margin:0px;">    
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eng-hasan-hajjar&card_width=150&show_icons=true&locale=en&layout=compact&row=2&column=3&theme=onedark&margin-w=50&margin-h=15&no-bg=true&no-frame=true" alt="eng-hasan-hajjar" /></p>
 </div>
 <br>
 <hr>
 
 <div align="center" style="margin:0px;">    
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eng-hasan-hajjar&show_icons=true&locale=en&row=2&column=3&theme=onedark&margin-w=350&margin-h=35&no-bg=true&no-frame=true&card_width=800" alt="eng-hasan-hajjar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eng-hasan-hajjar&show_icons=true&locale=en&row=2&column=3&theme=onedark&margin-w=350&margin-h=35&no-bg=true&no-frame=true&card_width=100" alt="eng-hasan-hajjar" /></p>
 <br>
 </div>
 
 <hr>
 <div align="center" style="margin:0px;">    
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eng-hasan-hajjar&row=2&column=3&theme=onedark&margin-w=150&margin-h=35&no-bg=true&no-frame=true&card_width=100" alt="eng-hasan-hajjar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eng-hasan-hajjar&row=2&column=3&theme=onedark&margin-w=150&margin-h=35&no-bg=true&no-frame=true&card_width=50" alt="eng-hasan-hajjar" /></p>
 </div>
 
 
