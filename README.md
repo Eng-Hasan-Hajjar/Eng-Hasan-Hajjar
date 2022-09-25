@@ -16,6 +16,7 @@
 <hr><hr>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eng-hasan-hajjar&row=2&column=3&theme=onedark&margin-w=85&margin-h=35&no-bg=true&no-frame=true" alt="eng-hasan-hajjar" /></a> </p>
 <hr>
+
 - 🌱 I’m currently learning **many frameworks and courses..**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Eng-Hasan-Hajjar/Hajjar-Portofilo](https://github.com/Eng-Hasan-Hajjar/Hajjar-Portofilo)
@@ -30,12 +31,12 @@
 
 
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/hasan-hajjar-198429248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hasan-hajjar-198429248/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/user:19918830" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:19918830" height="30" width="40" /></a>
 </p>
-
 
 
 <hr>
