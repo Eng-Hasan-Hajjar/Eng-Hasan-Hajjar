@@ -53,7 +53,7 @@
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=eng-hasan-hajjar&theme=onedark&margin-w=500&margin-h=50&no-bg=true&no-frame=true&card_width=200" style="width:350px;height:550px; display:inline;"  alt="eng-hasan-hajjar" /></p>
 </div>
 <div align="center" class="column"  style="float: center; width: 33.33%; padding: 5px;">    
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=eng-hasan-hajjar&show_icons=true&locale=en&theme=onedark&no-bg=true&no-frame=true&card_width=200"  style="width:300px;height:300px; display:inline;"  alt="eng-hasan-hajjar" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=eng-hasan-hajjar&show_icons=true&locale=en&theme=onedark&no-bg=true&no-frame=true&card_width=200"  style="width:300px;height:100px; display:inline;"  alt="eng-hasan-hajjar" /></p>
 </div>
 </div>
 
