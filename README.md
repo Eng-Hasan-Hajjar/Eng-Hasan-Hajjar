@@ -51,7 +51,7 @@
 </div>
    
 <div align="center"  style="float: center; width: 33.33%; padding: 1px;">    
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eng-hasan-hajjar&show_icons=true&locale=en&theme=onedark&no-bg=true&no-frame=true&card_width=20" alt="eng-hasan-hajjar" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eng-hasan-hajjar&show_icons=true&locale=en&theme=onedark&no-bg=true&no-frame=true&card_width=20" alt="eng-hasan-hajjar" /></p>
 </div>
 
 </div>
