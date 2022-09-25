@@ -45,15 +45,15 @@
 <hr>
 
 
-<div class="row"  style="display:table; clear: both; margin:10px;">   
+<div class="row"  style="display:table; clear: both; margin:0px;">   
 <div  align="left" class="column" style="float: left; width: 33.33%; padding: 5px;">    
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eng-hasan-hajjar&card_width=200&show_icons=true&locale=en&layout=compact&theme=onedark&no-bg=true&no-frame=true" style="width:200px;height:200px; display:inline;"  alt="eng-hasan-hajjar" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eng-hasan-hajjar&card_width=100&show_icons=true&locale=en&layout=compact&theme=onedark&no-bg=true&no-frame=true" style="width:100px;height:300px; display:inline;"  alt="eng-hasan-hajjar" /></p>
 </div>
 <div align="center" class="column"  style="float: center; width: 33.33%; padding: 5px;">    
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=eng-hasan-hajjar&show_icons=true&locale=en&theme=onedark&no-bg=true&no-frame=true&card_width=200"  style="width:200px;height:250px; display:inline;"  alt="eng-hasan-hajjar" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=eng-hasan-hajjar&show_icons=true&locale=en&theme=onedark&no-bg=true&no-frame=true&card_width=100"  style="width:100px;height:300px; display:inline;"  alt="eng-hasan-hajjar" /></p>
 </div>
 <div align="right" class="column"  style="float: right; width: 33.33%; padding: 5px;">    
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=eng-hasan-hajjar&theme=onedark&margin-w=200&margin-h=5&no-bg=true&no-frame=true&card_width=200" style="width:250px;height:200px; display:inline;"  alt="eng-hasan-hajjar" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=eng-hasan-hajjar&theme=onedark&no-bg=true&no-frame=true&card_width=100" style="width:100px;height:300px; display:inline;"  alt="eng-hasan-hajjar" /></p>
 </div>
 </div>
 
