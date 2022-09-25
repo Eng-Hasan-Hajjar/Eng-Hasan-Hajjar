@@ -47,7 +47,7 @@
 </div>
 
 <div align="right" class="column"  style="float: right; width: 33.33%; padding: 1px;">    
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=eng-hasan-hajjar&theme=onedark&margin-w=50&margin-h=35&no-bg=true&no-frame=true&card_width=20" alt="eng-hasan-hajjar" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=eng-hasan-hajjar&theme=onedark&margin-w=50&margin-h=35&no-bg=true&no-frame=true&card_width=20" style="max-width: 30%;" alt="eng-hasan-hajjar" /></p>
 </div>
    
 <div align="center" class="column"  style="float: center; width: 33.33%; padding: 1px;">    
