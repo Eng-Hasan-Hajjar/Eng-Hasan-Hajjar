@@ -42,7 +42,7 @@
 
 <br>
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=eng-hasan-hajjar&show_icons=true&locale=en&theme=onedark&no-bg=true&no-frame=true&card_width=200" alt="eng-hasan-hajjar" /></p>
-<hr>
+
 
 
 <div class="row"  style="display:table; clear: both; margin:0px;">   
