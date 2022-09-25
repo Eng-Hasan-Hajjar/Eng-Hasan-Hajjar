@@ -55,7 +55,7 @@
 </div>
 
 <hr>
-<hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr><hr>
+<hr><hr><hr><hr><hr><hr><hr>
 
 <div style="margin-top=100px;">
 
