@@ -50,13 +50,21 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eng-hasan-hajjar&card_width=300&show_icons=true&locale=en&layout=compact&theme=onedark&no-bg=true&no-frame=true" style="width:300px;height:300px; display:inline;"  alt="eng-hasan-hajjar" /></p>
 </div>
 <div align="right" class="column"  style="float: right; width: 66.66%; padding: 5px;">    
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=eng-hasan-hajjar&theme=onedark&no-bg=true&no-frame=true&card_width=500" style="width:500px;height:300px; display:inline;"  alt="eng-hasan-hajjar" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=eng-hasan-hajjar&theme=onedark&no-bg=true&no-frame=true&card_width=400" style="width:400px;height:300px; display:inline;"  alt="eng-hasan-hajjar" /></p>
 </div>
 </div>
 
 <hr>
 <hr>
 
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
 <div>
 
 <h3 align="left" >Languages and Tools:</h3>
