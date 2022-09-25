@@ -52,6 +52,8 @@
 <div align="right" class="column"  style="float: right; width: 33.33%; padding: 5px;">    
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=eng-hasan-hajjar&theme=onedark&margin-w=50&margin-h=35&no-bg=true&no-frame=true&card_width=20" alt="eng-hasan-hajjar" /></p>
 </div>
+<div align="center">
+</div>
 </div>
 
 <hr>
