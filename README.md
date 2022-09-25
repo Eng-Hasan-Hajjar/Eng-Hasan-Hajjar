@@ -42,15 +42,16 @@
 
 
 <div class="row"  style="display:table; content: "";clear: both; display: table;" >  
+    
 <div  align="left" class="column" style="float: left; width: 33.33%; padding: 1px;">    
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eng-hasan-hajjar&card_width=20&show_icons=true&locale=en&layout=compact&theme=onedark&no-bg=true&no-frame=true" alt="eng-hasan-hajjar" /></p>
 </div>
 
-<div align="right" class="column"  style="float: right; width: 33.33%; padding: 1px;" style="max-width: 30%;">    
+<div align="right" class="column"  style="float: right; width: 23.33%; padding: 1px;" style="max-width: 30%;">    
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=eng-hasan-hajjar&theme=onedark&margin-w=50&margin-h=35&no-bg=true&no-frame=true&card_width=20" style="max-width: 30%;" alt="eng-hasan-hajjar" /></p>
 </div>
    
-<div align="center"  style="float: center; width: 33.33%; padding: 1px;">    
+<div align="center" class="column" style="float: center; width: 23.33%; padding: 1px;">    
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eng-hasan-hajjar&show_icons=true&locale=en&theme=onedark&no-bg=true&no-frame=true&card_width=20" alt="eng-hasan-hajjar" /></p>
 </div>
 
