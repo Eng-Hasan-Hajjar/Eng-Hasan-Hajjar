@@ -49,8 +49,11 @@
 <div  align="left" class="column" style="float: left; width: 33.34%; padding: 5px;">    
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eng-hasan-hajjar&card_width=210&show_icons=true&locale=en&layout=compact&theme=onedark&no-bg=true&no-frame=true" style="width:300px;height:300px; display:inline;"  alt="eng-hasan-hajjar" /></p>
 </div>
-<div align="right" class="column"  style="float: right; width: 66.66%; padding: 5px;">    
+<div align="right" class="column"  style="float: right; width: 33.33%; padding: 5px;">    
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=eng-hasan-hajjar&theme=onedark&margin-w=500&margin-h=350&no-bg=true&no-frame=true&card_width=200" style="width:300px;height:300px; display:inline;"  alt="eng-hasan-hajjar" /></p>
+</div>
+<div align="center" class="column"  style="float: center; width: 33.33%; padding: 5px;">    
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=eng-hasan-hajjar&show_icons=true&locale=en&theme=onedark&no-bg=true&no-frame=true&card_width=200"  style="width:300px;height:300px; display:inline;"  alt="eng-hasan-hajjar" /></p>
 </div>
 </div>
 
