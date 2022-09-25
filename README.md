@@ -58,7 +58,7 @@
 </div>
 
 <hr>
-<hr><hr><hr><hr><hr><hr><hr style="margin-top:100px;">
+<hr>
 
 <div style="margin-top:100px;">
 
