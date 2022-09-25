@@ -47,9 +47,9 @@
 
 <div class="row"  style="display:table; content: "";clear: both; display: table;">   
 <div  align="left" class="column" style="float: left; width: 33.33%; padding: 5px;">    
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eng-hasan-hajjar&card_width=100&show_icons=true&locale=en&layout=compact&theme=onedark&no-bg=true&no-frame=true" alt="eng-hasan-hajjar" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eng-hasan-hajjar&card_width=110&show_icons=true&locale=en&layout=compact&theme=onedark&no-bg=true&no-frame=true" alt="eng-hasan-hajjar" /></p>
 </div>
-<div align="right" class="column"  style="float: right; width: 66.33%; padding: 5px;">    
+<div align="right" class="column"  style="float: right; width: 66.66%; padding: 5px;">    
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=eng-hasan-hajjar&theme=onedark&margin-w=50&margin-h=35&no-bg=true&no-frame=true&card_width=200" alt="eng-hasan-hajjar" /></p>
 </div>
 </div>
