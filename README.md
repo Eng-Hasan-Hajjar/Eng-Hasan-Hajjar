@@ -41,7 +41,7 @@
 
 
 <br>
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=eng-hasan-hajjar&show_icons=true&locale=en&theme=onedark&no-bg=true&no-frame=true&card_width=800" alt="eng-hasan-hajjar" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=eng-hasan-hajjar&show_icons=true&locale=en&theme=onedark&no-bg=true&no-frame=true&card_width=900" alt="eng-hasan-hajjar" /></p>
 
 
 
