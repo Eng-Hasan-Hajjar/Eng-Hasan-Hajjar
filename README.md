@@ -1,3 +1,17 @@
+## My logo
+<div class="row"  style="display:table; content: "";clear: both; display: table;" >
+<div class="column" style="float: left; width: 33.33%; padding: 5px;" >
+    <img align="left"  src="Eng.Hasan.Hajjar.logo.png" style="width:300px;height:300px; display:inline;"  />
+</div>
+<div class="column"  style="float: left; width: 33.33%; padding: 5px;" >
+    <img align="right" alt="GIF" src="PROGRAMMING.gif"  style="width:300px;height:300px; display:inline;" />
+</div>
+</div>
+<hr>
+<h1 align="center">Hi 👋, I'm Hasan Hajjar</h1>
+<h3 align="center">A passionate full stack developer from Syria-Aleppo.</h3>
+<hr>
+
 
 <table style="width:100%;border: 1px solid black;">
   <tr>
@@ -68,66 +82,6 @@
 
 
 
-
-
-
-
-
-<table style="width:100%;border: 1px solid black;">
-  <tr>
- 
-  <th style="width:33.33%">
-     <img   src="Eng.Hasan.Hajjar.logo.png"  />
-  </th>
-  <th style="width:33.33%">
-    <h1 align="center">Hi 👋, I'm Hasan Hajjar</h1>
-<h3 align="center">A passionate full stack developer from Syria-Aleppo.</h3>
-<hr>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=eng-hasan-hajjar&label=Profile%20views&color=0e75b6&style=flat&margin-w=35&margin-h=35" alt="eng-hasan-hajjar" /> </p>
-<hr><hr>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eng-hasan-hajjar&row=2&column=3&theme=onedark&margin-w=85&margin-h=35&no-bg=true&no-frame=true" alt="eng-hasan-hajjar" /></a> </p>
-<hr>
-  
-    
-    
-    
-  </th>
-  <th style="width:33.33%">
-       <img align="right" alt="GIF" src="PROGRAMMING.gif" />
-  </th>
-  
-   </tr>
-</table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## My logo
-<div class="row"  style="display:table; content: "";clear: both; display: table;" >
-<div class="column" style="float: left; width: 33.33%; padding: 5px;" >
-    <img align="left"  src="Eng.Hasan.Hajjar.logo.png" style="width:300px;height:300px; display:inline;"  />
-</div>
-<div class="column"  style="float: left; width: 33.33%; padding: 5px;" >
-    <img align="right" alt="GIF" src="PROGRAMMING.gif"  style="width:300px;height:300px; display:inline;" />
-</div>
-</div>
-<hr>
-<h1 align="center">Hi 👋, I'm Hasan Hajjar</h1>
-<h3 align="center">A passionate full stack developer from Syria-Aleppo.</h3>
 <hr>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=eng-hasan-hajjar&label=Profile%20views&color=0e75b6&style=flat&margin-w=35&margin-h=35" alt="eng-hasan-hajjar" /> </p>
 <hr><hr>
