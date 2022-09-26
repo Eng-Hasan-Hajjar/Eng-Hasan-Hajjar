@@ -36,7 +36,7 @@
 
 
 
-<table style="width:100%;border: 1px solid black;">
+<table style="width:100%;">
   <tr>
  
   <th style="width:33.33%">
@@ -56,17 +56,7 @@
 </table>
 
 
-
-
-
-
-
-
-
-
-
-
-<table style="width:100%;border: 1px solid black;">
+<table style="width:100%;">
   <tr>
  
   <th style="width:33.33%">
@@ -101,7 +91,7 @@
 
 - ⚡ Fun fact **I think I am funny**
 
-
+<hr>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -111,12 +101,6 @@
 </p>
 
 
-<hr>
-
-
-
-
-<hr>
 <hr>
 <div>
 
