@@ -8,6 +8,22 @@
    style="width:250px;height:300px; display:inline;" alt="Eng-Hasan-Hajjar" /></p> 
 </div>
 </div>
+<table style="width:100%;border: 1px solid black;">
+  <tr>
+ 
+  <th style="width:33.33%">
+  <p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eng-Hasan-Hajjar&theme=gruvbox" alt="Eng-Hasan-Hajjar"/></p>
+  </th>
+  <th style="width:33.33%">
+ <p><img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Eng-Hasan-Hajjar&theme=gruvbox&utcOffset=8" alt="Eng-Hasan-Hajjar" alt="Eng-Hasan-Hajjar" /></p> 
+  </th>
+  <th style="width:33.33%">
+  <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=eng-hasan-hajjar&show_icons=true&locale=en&theme=onedark&no-bg=true&no-frame=true&card_width=200" alt="eng-hasan-hajjar" /></p>
+  </th>
+  
+   </tr>
+</table>
+
 
 <table style="width:100%;border: 1px solid black;">
   <tr>
