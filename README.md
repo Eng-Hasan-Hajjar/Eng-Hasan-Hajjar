@@ -59,14 +59,11 @@
 <table style="width:100%;  border: 1px solid white;">
   <tr>
  
-  <th style="width:33.33%">
+  <th style="width:50%">
     <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eng-hasan-hajjar&card_width=356&show_icons=true&locale=en&layout=compact&theme=onedark&no-bg=true&no-frame=true"   alt="eng-hasan-hajjar" /></p>
   </th>
-  <th style="width:33.33%">
+  <th style="width:50%">
  <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=eng-hasan-hajjar&theme=onedark&no-bg=true&no-frame=true&card_width=450"   alt="eng-hasan-hajjar" /></p>
-  </th>
-  <th style="width:33.33%">
-
   </th>
   
    </tr>
