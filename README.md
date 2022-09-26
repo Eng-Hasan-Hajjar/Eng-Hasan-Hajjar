@@ -1,4 +1,4 @@
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Eng-Hasan-Hajjar" alt="Eng-Hasan-Hajjar" /></p>
+
 <p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eng-Hasan-Hajjar&theme=github" /></p>
 <p><img align="center" src="https://github-stats-alpha.vercel.app/api?username=Eng-Hasan-Hajjar&bc=ebebeb&ic=0E8AD9" alt="Eng-Hasan-Hajjar" /></p>
 
