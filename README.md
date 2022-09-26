@@ -13,7 +13,7 @@
 
 <div class="row"  style="display:table; content: "";clear: both; display: table;" >
 <div class="column" style="float: left; width: 33.33%; padding: 5px;" >
-  <p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Eng-Hasan-Hajjar&theme=default&theme=onedark"
+  <p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Eng-Hasan-Hajjar&theme=gruvbox"
   style="width:500px;height:300px; display:inline;" alt="Eng-Hasan-Hajjar" /></p>
 </div>
 <div class="column"  style="float: right; width: 33.33%; padding: 5px;" >
