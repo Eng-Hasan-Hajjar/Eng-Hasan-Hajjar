@@ -12,6 +12,20 @@
 
 
 
+<div class="row"  style="display:table; content: "";clear: both; display: table;" >
+<div class="column" style="float: left; width: 33.33%; padding: 5px;" >
+  <p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Eng-Hasan-Hajjar&theme=default&theme=onedark"
+  style="width:500px;height:300px; display:inline;" /></p>
+</div>
+<div class="column"  style="float: right; width: 33.33%; padding: 5px;" >
+   <p><img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eng-Hasan-Hajjar&theme=default&theme=onedark" alt="Eng-Hasan-Hajjar" 
+   style="width:300px;height:350px; display:inline;" /></p> 
+</div>
+</div>
+
+
+
+
 
 
 
