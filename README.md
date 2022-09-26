@@ -2,7 +2,7 @@
 <div class="row"  style="display:table; content: "";clear: both; display: table;" >
 <div class="column" style="float: left; width: 33.33%; padding: 5px;" >
   <p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eng-Hasan-Hajjar&theme=github"
-  style="width:300px;height:300px; display:inline;" /></p>
+  style="width:600px;height:300px; display:inline;" /></p>
 </div>
 <div class="column"  style="float: right; width: 33.33%; padding: 5px;" >
    <p><img align="right" src="https://github-stats-alpha.vercel.app/api?username=Eng-Hasan-Hajjar&bc=ebebeb&ic=0E8AD9" alt="Eng-Hasan-Hajjar" 
