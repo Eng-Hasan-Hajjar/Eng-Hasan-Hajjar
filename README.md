@@ -16,7 +16,7 @@
 <hr>
 
 
-<table style="width:100%;border: 1px solid black;">
+<table style="width:100%; border: 1px solid white;;">
   <tr>
  
   <th style="width:33.33%">
@@ -36,7 +36,7 @@
 
 
 
-<table style="width:100%;">
+<table style="width:100%; border: 1px solid white;">
   <tr>
  
   <th style="width:33.33%">
@@ -56,7 +56,7 @@
 </table>
 
 
-<table style="width:100%;">
+<table style="width:100%;  border: 1px solid white;">
   <tr>
  
   <th style="width:33.33%">
