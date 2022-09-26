@@ -1,7 +1,7 @@
 
 <div class="row"  style="display:table; content: "";clear: both; display: table;" >
 <div class="column" style="float: left; width: 33.33%; padding: 5px;" >
-  <p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eng-Hasan-Hajjar&theme=onedark"
+  <p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eng-Hasan-Hajjar&theme=github&theme=onedark"
   style="width:500px;height:300px; display:inline;" /></p>
 </div>
 <div class="column"  style="float: right; width: 33.33%; padding: 5px;" >
