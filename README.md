@@ -1,7 +1,7 @@
 
 <div class="row"  style="display:table; content: "";clear: both; display: table;" >
 <div class="column" style="float: left; width: 33.33%; padding: 5px;" >
-  <p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eng-Hasan-Hajjar&theme=gruvbox" alt="Eng-Hasan-Hajjar" style="width:500px;height:300px; display:inline;" /></p>
+  <p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eng-Hasan-Hajjar&theme=gruvbox" alt="Eng-Hasan-Hajjar" style="width:500px;height:350px; display:inline;" /></p>
 </div>
 <div class="column"  style="float: right; width: 33.33%; padding: 5px;" >
    <p><img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Eng-Hasan-Hajjar&theme=gruvbox&utcOffset=8" alt="Eng-Hasan-Hajjar" 
@@ -14,14 +14,14 @@
 <div class="row"  style="display:table; content: "";clear: both; display: table;" >
 <div class="column" style="float: left; width: 33.33%; padding: 5px;" >
   <p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Eng-Hasan-Hajjar&theme=gruvbox"
-  style="width:250px;height:300px; display:inline;" alt="Eng-Hasan-Hajjar" /></p>
+  style="width:350px;height:300px; display:inline;" alt="Eng-Hasan-Hajjar" /></p>
 </div>
 <div class="column"  style="float: right; width: 33.33%; padding: 5px;" >
    <p><img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eng-Hasan-Hajjar&theme=gruvbox" alt="Eng-Hasan-Hajjar" 
    style="width:250px;height:300px; display:inline;" alt="Eng-Hasan-Hajjar" /></p> 
 </div>
 <div class="column"  style="float: center; width: 33.33%; padding: 5px;" >
-<p><img align="center" src="https://github-stats-alpha.vercel.app/api?username=Eng-Hasan-Hajjar&bc=ebebeb&ic=0E8AD9&theme=gruvbox" alt="Eng-Hasan-Hajjar" 
+<p><img align="center" src="https://github-stats-alpha.vercel.app/api?username=Eng-Hasan-Hajjar&bc=ebebeb&ic=0E8AD9" alt="Eng-Hasan-Hajjar" 
 style="width:250px;height:350px; display:inline;" /></p> 
 </div>
 </div>
