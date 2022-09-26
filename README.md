@@ -9,19 +9,23 @@
 </div>
 </div>
 
-<table style="width:100%">
-  <tr style="width:33.33%">
+<table style="width:100%;border: 1px solid black;">
+  <tr>
+ 
+  <th style="width:33.33%">
       <p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Eng-Hasan-Hajjar&theme=gruvbox"
    alt="Eng-Hasan-Hajjar" /></p>
-  </tr>
-  <tr style="width:33.33%">
+  </th>
+  <th style="width:33.33%">
      <p><img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eng-Hasan-Hajjar&theme=gruvbox" alt="Eng-Hasan-Hajjar" 
    alt="Eng-Hasan-Hajjar" /></p> 
-  </tr>
-  <tr style="width:33.33%">
+  </th>
+  <th style="width:33.33%">
     <p><img align="center" src="https://github-stats-alpha.vercel.app/api?username=Eng-Hasan-Hajjar&bc=ebebeb&ic=0E8AD9" alt="Eng-Hasan-Hajjar" 
  /></p> 
-  </tr>
+  </th>
+  
+   </tr>
 </table>
 
 
