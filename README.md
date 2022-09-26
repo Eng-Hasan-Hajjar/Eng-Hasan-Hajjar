@@ -9,7 +9,20 @@
 </div>
 </div>
 
-
+<table>
+  <tr>
+      <p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Eng-Hasan-Hajjar&theme=gruvbox"
+  style="width:220px;height:300px; display:inline;" alt="Eng-Hasan-Hajjar" /></p>
+  </tr>
+  <tr>
+     <p><img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eng-Hasan-Hajjar&theme=gruvbox" alt="Eng-Hasan-Hajjar" 
+   style="width:225px;height:300px; display:inline;" alt="Eng-Hasan-Hajjar" /></p> 
+  </tr>
+  <tr>
+    <p><img align="center" src="https://github-stats-alpha.vercel.app/api?username=Eng-Hasan-Hajjar&bc=ebebeb&ic=0E8AD9" alt="Eng-Hasan-Hajjar" 
+style="width:200px;height:300px; display:inline;" /></p> 
+  </tr>
+</table>
 
 <div class="row"  style="display:table; content: "";clear: both; display: table;" >
 <div class="column" style="float: left; width: 33.33%; padding: 5px;" >
