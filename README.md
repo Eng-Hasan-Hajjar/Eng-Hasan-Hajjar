@@ -21,7 +21,7 @@
    style="width:200px;height:300px; display:inline;" alt="Eng-Hasan-Hajjar" /></p> 
 </div>
 <div class="column"  style="float: center; width: 33.33%; padding: 5px;" >
-<p><img align="center" src="https://github-stats-alpha.vercel.app/api?username=Eng-Hasan-Hajjar&bc=ebebeb&ic=0E8AD9&theme=onedark" alt="Eng-Hasan-Hajjar" 
+<p><img align="center" src="https://github-stats-alpha.vercel.app/api?username=Eng-Hasan-Hajjar&bc=ebebeb&ic=0E8AD9&theme=gruvbox" alt="Eng-Hasan-Hajjar" 
 style="width:200px;height:350px; display:inline;" /></p> 
 </div>
 </div>
