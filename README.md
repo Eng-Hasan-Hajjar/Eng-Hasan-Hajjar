@@ -10,17 +10,17 @@
 </div>
 
 <table style="width:100%">
-  <tr>
+  <tr style="width:33.33%">
       <p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Eng-Hasan-Hajjar&theme=gruvbox"
-  style="width:33.33%" alt="Eng-Hasan-Hajjar" /></p>
+   alt="Eng-Hasan-Hajjar" /></p>
   </tr>
-  <tr>
+  <tr style="width:33.33%">
      <p><img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eng-Hasan-Hajjar&theme=gruvbox" alt="Eng-Hasan-Hajjar" 
-   style="width:33.33%" alt="Eng-Hasan-Hajjar" /></p> 
+   alt="Eng-Hasan-Hajjar" /></p> 
   </tr>
-  <tr>
+  <tr style="width:33.33%">
     <p><img align="center" src="https://github-stats-alpha.vercel.app/api?username=Eng-Hasan-Hajjar&bc=ebebeb&ic=0E8AD9" alt="Eng-Hasan-Hajjar" 
-style="width:33.33%" /></p> 
+ /></p> 
   </tr>
 </table>
 
