@@ -13,15 +13,15 @@
   <tr>
  
   <th style="width:33.33%">
-      <p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Eng-Hasan-Hajjar&theme=gruvbox"
+      <p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Eng-Hasan-Hajjar&theme=2077"
    alt="Eng-Hasan-Hajjar" /></p>
   </th>
   <th style="width:33.33%">
-     <p><img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eng-Hasan-Hajjar&theme=gruvbox" alt="Eng-Hasan-Hajjar" 
+     <p><img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eng-Hasan-Hajjar&theme=2077" alt="Eng-Hasan-Hajjar" 
    alt="Eng-Hasan-Hajjar" /></p> 
   </th>
   <th style="width:33.33%">
-    <p><img align="center" src="https://github-stats-alpha.vercel.app/api?username=Eng-Hasan-Hajjar&bc=ebebeb&ic=0E8AD9" alt="Eng-Hasan-Hajjar" 
+    <p><img align="center" src="https://github-stats-alpha.vercel.app/api?username=Eng-Hasan-Hajjar&bc=ebebeb&ic=0E8AD9&theme=2077" alt="Eng-Hasan-Hajjar" 
  /></p> 
   </th>
   
