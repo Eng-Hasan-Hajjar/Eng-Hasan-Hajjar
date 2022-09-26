@@ -50,7 +50,7 @@
    alt="Eng-Hasan-Hajjar" /></p> 
   </th>
   <th style="width:33.33%">
-    <p><img align="center" src="https://github-stats-alpha.vercel.app/api?username=Eng-Hasan-Hajjar&bc=ebebeb&ic=0E8AD9&theme=2077" alt="Eng-Hasan-Hajjar" 
+    <p><img align="center" src="https://github-stats-alpha.vercel.app/api?username=Eng-Hasan-Hajjar&bc=ebebeb&ic=0E8AD9&theme=radical" alt="Eng-Hasan-Hajjar" 
  /></p> 
   </th>
   
