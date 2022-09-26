@@ -1,13 +1,4 @@
 
-<div class="row"  style="display:table; content: "";clear: both; display: table;" >
-<div class="column" style="float: left; width: 33.33%; padding: 5px;" >
-  <p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eng-Hasan-Hajjar&theme=gruvbox" alt="Eng-Hasan-Hajjar" style="width:500px;height:350px; display:inline;" /></p>
-</div>
-<div class="column"  style="float: right; width: 33.33%; padding: 5px;" >
-   <p><img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Eng-Hasan-Hajjar&theme=gruvbox&utcOffset=8" alt="Eng-Hasan-Hajjar" 
-   style="width:250px;height:300px; display:inline;" alt="Eng-Hasan-Hajjar" /></p> 
-</div>
-</div>
 <table style="width:100%;border: 1px solid black;">
   <tr>
  
