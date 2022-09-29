@@ -12,7 +12,18 @@
 
 <hr>
 <br>
-| [![Eng-Hasan-Hajjar](https://img.shields.io/badge/Eng-Hasan-Hajjar-<COLOR>.svg)](https://shields.io/) | ![Profile Views](https://komarev.com/ghpvc/?username=Eng-Hasan-Hajjar&color=green) | ![Followers](https://img.shields.io/github/followers/Eng-Hasan-Hajjar) | ![Stars](https://img.shields.io/github/stars/Eng-Hasan-Hajjar?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) |
+[![Eng-Hasan-Hajjar](https://img.shields.io/badge/Eng-Hasan-Hajjar-<COLOR>.svg)](https://shields.io/) | ![Profile Views](https://komarev.com/ghpvc/?username=Eng-Hasan-Hajjar&color=green) | ![Followers](https://img.shields.io/github/followers/Eng-Hasan-Hajjar) | ![Stars](https://img.shields.io/github/stars/Eng-Hasan-Hajjar?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) |
+
+
+<p align="center"> <a href="https://img.shields.io/badge/Eng-Hasan-Hajjar-<COLOR>.svg"><img src="https://github-profile-trophy.vercel.app/?username=eng-hasan-hajjar&row=2&column=3&theme=onedark&margin-w=85&margin-h=35&no-bg=true&no-frame=true" alt="eng-hasan-hajjar" /></a> </p>
+
+
+<p align="center"> <a href="https://komarev.com/ghpvc/?username=Eng-Hasan-Hajjar&color=green"><img src="https://github-profile-trophy.vercel.app/?username=eng-hasan-hajjar&row=2&column=3&theme=onedark&margin-w=85&margin-h=35&no-bg=true&no-frame=true" alt="eng-hasan-hajjar" /></a> </p>
+
+
+<p align="center"> <a href="https://img.shields.io/github/stars/Eng-Hasan-Hajjar?label=Profile%20Stars&logo=Profile%20stars&logoColor=g"><img src="https://github-profile-trophy.vercel.app/?username=eng-hasan-hajjar&row=2&column=3&theme=onedark&margin-w=85&margin-h=35&no-bg=true&no-frame=true" alt="eng-hasan-hajjar" /></a> </p>
+
+
 <br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eng-hasan-hajjar&row=2&column=3&theme=onedark&margin-w=85&margin-h=35&no-bg=true&no-frame=true" alt="eng-hasan-hajjar" /></a> </p>
 <hr>
