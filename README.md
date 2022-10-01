@@ -63,7 +63,6 @@
 
 <table style="width:100%;  border: 1px solid white;">
   <tr>
- 
   <th style="width:50%">
     <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eng-hasan-hajjar&card_width=356&show_icons=true&locale=en&layout=compact&theme=radical&no-bg=true&no-frame=true"   alt="eng-hasan-hajjar" /></p>
   </th>
