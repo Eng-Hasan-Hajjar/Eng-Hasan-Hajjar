@@ -18,7 +18,6 @@
 
 <table style="width:100%; border: 1px solid white;;">
   <tr>
- 
   <th style="width:33.33%">
   <p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eng-Hasan-Hajjar&theme=2077" alt="Eng-Hasan-Hajjar"/></p>
   </th>
