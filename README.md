@@ -32,7 +32,6 @@
 
 
 
-
 <table style="width:100%; border: 1px solid white;">
   <tr>
   <th style="width:33.33%">
