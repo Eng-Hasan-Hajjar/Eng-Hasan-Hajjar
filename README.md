@@ -22,9 +22,7 @@
   <p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eng-Hasan-Hajjar&theme=2077" alt="Eng-Hasan-Hajjar"/></p>
   </th>
       
-      
-      
-      
+         
       
   <th style="width:33.33%">
  <p><img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Eng-Hasan-Hajjar&theme=2077&utcOffset=8" alt="Eng-Hasan-Hajjar" alt="Eng-Hasan-Hajjar" /></p> 
