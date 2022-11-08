@@ -53,7 +53,6 @@
   <th style="width:50%">
  <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=eng-hasan-hajjar&theme=radical&no-bg=true&no-frame=true&card_width=450"   alt="eng-hasan-hajjar" /></p>
   </th>
-  
    </tr>
 </table>
 <hr>
