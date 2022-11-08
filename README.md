@@ -59,7 +59,6 @@
   
    </tr>
 </table>
-
 <hr>
 
 - 🌱 I’m currently learning **many frameworks and courses..**
@@ -75,8 +74,6 @@
 - ⚡ Fun fact **I think I am funny**
 
 <hr>
-
-
 
 
 <h3 align="left">Connect with me:</h3>
