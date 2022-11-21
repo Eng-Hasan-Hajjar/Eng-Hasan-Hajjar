@@ -7,6 +7,10 @@
 
 
 
+
+
+
+
 <div class="row"  style="display:table; content: "";clear: both; display: table;">
       
 <div class="column" style="float: left; width: 40.33%; padding: 5px;" >
