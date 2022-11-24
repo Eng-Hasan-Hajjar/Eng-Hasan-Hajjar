@@ -32,9 +32,7 @@
   </th>
   <th style="width:33.33%">
   <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=eng-hasan-hajjar&show_icons=true&locale=en&theme=radical&no-bg=true&no-frame=true&card_width=200" alt="eng-hasan-hajjar" /></p>
-  </th>
-      
-      
+  </th>   
    </tr>
     
 </table>
