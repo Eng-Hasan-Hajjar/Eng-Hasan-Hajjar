@@ -52,9 +52,7 @@
   <th style="width:50%">
     <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eng-hasan-hajjar&card_width=356&show_icons=true&locale=en&layout=compact&theme=radical&no-bg=true&no-frame=true"   alt="eng-hasan-hajjar" /></p>
   </th>
-      
 
-      
   <th style="width:50%">
  <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=eng-hasan-hajjar&theme=radical&no-bg=true&no-frame=true&card_width=450"   alt="eng-hasan-hajjar" /></p>
   </th>
