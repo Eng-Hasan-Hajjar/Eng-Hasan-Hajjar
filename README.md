@@ -1,99 +1,145 @@
-## My logo
-<div class="row"  style="display:table; content: "";clear: both; display: table;">   
-<div class="column" style="float: left; width: 40.33%; padding: 5px;" >
-    <img align="left"  src="Eng.Hasan.Hajjar.logo.png" style="width:350px;height:300px; display:inline;"  />
-</div>     
-    
- 
-    
-    
-    
-    
-    
-    
-<div class="column"  style="float: left; width: 40.33%; padding: 25px;" >
-    <img align="right" alt="GIF" src="PROGRAMMING.gif"  style="width:350px;height:300px; display:inline;" />
-</div>
-</div>
+<!-- ===================== HEADER ===================== -->
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6ff&height=200&section=header&text=Eng.%20Hasan%20Hajjar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
+<!-- Typing animation -->
+<a href="https://github.com/Eng-Hasan-Hajjar">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;Laravel+%26+Vue.js+Specialist+%E2%9A%A1;Building+Web+Apps+from+Aleppo%2C+Syria+%F0%9F%87%B8%F0%9F%87%BE;Open+to+Freelance+%26+Remote+Work+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-
-
-
-<hr>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=eng-hasan-hajjar&label=Profile%20views&color=0e75b6&style=flat&margin-w=35&margin-h=35" alt="eng-hasan-hajjar" /> </p>
-<hr>
-<br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eng-hasan-hajjar&row=2&column=3&theme=onedark&margin-w=85&margin-h=35&no-bg=true&no-frame=true" alt="eng-hasan-hajjar" /></a> </p>
-<hr>
-<table style="width:100%; border: 1px solid white;;">
-  <tr>
-  <th style="width:33.33%">
-  <p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eng-Hasan-Hajjar&theme=2077" alt="Eng-Hasan-Hajjar"/></p>
-    </th>  
-  <th style="width:33.33%">
- <p><img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Eng-Hasan-Hajjar&theme=2077&utcOffset=8" alt="Eng-Hasan-Hajjar" alt="Eng-Hasan-Hajjar" /></p> 
-  </th>
-  <th style="width:33.33%">
-  <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=eng-hasan-hajjar&show_icons=true&locale=en&theme=radical&no-bg=true&no-frame=true&card_width=200" alt="eng-hasan-hajjar" /></p>
-  </th>   
-   </tr>
-</table>
-
-
-
-<table style="width:100%; border: 1px solid white;">
-  <tr>  
-      
-      
-  <th style="width:33.33%">
-      <p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Eng-Hasan-Hajjar&theme=2077"
-   alt="Eng-Hasan-Hajjar" /></p>
-  </th>
-  <th style="width:33.33%">
-     <p><img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eng-Hasan-Hajjar&theme=2077" alt="Eng-Hasan-Hajjar" 
-   alt="Eng-Hasan-Hajjar" /></p> 
-  </th>
-  <th style="width:33.33%">
-    <p><img align="center" src="https://github-stats-alpha.vercel.app/api?username=Eng-Hasan-Hajjar&theme=radical&bc=ebebeb&ic=0E8AD9&theme=radical" alt="Eng-Hasan-Hajjar" 
- /></p> 
-  </th>      
-   </tr>  
-</table>
-<table style="width:100%;  border: 1px solid white;">
-  <tr>
-  <th style="width:50%">
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eng-hasan-hajjar&card_width=356&show_icons=true&locale=en&layout=compact&theme=radical&no-bg=true&no-frame=true"   alt="eng-hasan-hajjar" /></p>
-  </th>
-  <th style="width:50%">
- <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=eng-hasan-hajjar&theme=radical&no-bg=true&no-frame=true&card_width=450"   alt="eng-hasan-hajjar" /></p>
-  </th>
-   </tr>
-</table>
-<hr>
-- 🌱 I’m currently learning **many frameworks and courses..**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Eng-Hasan-Hajjar/Hajjar-Portofilo](https://github.com/Eng-Hasan-Hajjar/Hajjar-Portofilo)
-
-- 💬 Ask me about **Laravel html5 css3 js nodejs asp.net c# java and ..etc**
-
-- 📫 How to reach me **eng.hasan.hajjar@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1NcqwkdHLJlZe0nOnS8wn8vxYEByaAla3/edit?usp=sharing&ouid=118404200982598557105&rtpof=true&sd=true](https://docs.google.com/document/d/1NcqwkdHLJlZe0nOnS8wn8vxYEByaAla3/edit?usp=sharing&ouid=118404200982598557105&rtpof=true&sd=true)
-
-- ⚡ Fun fact **I think I am funny**
-<hr>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hasan-hajjar-198429248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hasan-hajjar-198429248/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:19918830" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:19918830" height="30" width="40" /></a>
+<!-- Profile views + Followers -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Eng-Hasan-Hajjar&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <a href="https://github.com/Eng-Hasan-Hajjar?tab=followers">
+    <img src="https://img.shields.io/github/followers/Eng-Hasan-Hajjar?label=Followers&style=for-the-badge&color=00c6ff" alt="followers" />
+  </a>
 </p>
-<hr>
-<div>
 
-<h3 align="left" >Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuepress.vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" alt="vuepress" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-    
-    
-</div>    
+</div>
+
+<!-- ===================== ABOUT ME ===================== -->
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+
+```yaml
+name:        "Hasan Hajjar"
+role:        "Full-Stack Developer & Software Engineer"
+location:    "Aleppo, Syria 🇸🇾"
+work:        "Freelance / Remote"
+focus:       ["Laravel", "Vue.js", "Node.js", "REST APIs"]
+building:    "E-commerce, Inventory & Real-Estate web apps"
+learning:    "New frameworks & architecture patterns"
+fun_fact:    "I think I'm funny 😄"
+```
+
+- 🔭 &nbsp;I build full-stack web applications — from database design to polished frontends.
+- 🌱 &nbsp;Currently deepening my skills in modern frameworks and clean architecture.
+- 💬 &nbsp;Ask me about **Laravel, PHP, JavaScript, Vue, Node.js, C# / .NET**.
+- 📫 &nbsp;Reach me at **eng.hasan.hajjar@gmail.com**.
+- 🌐 &nbsp;Portfolio: **[eng-hasan-hajjar.github.io](https://eng-hasan-hajjar.github.io)**
+
+<br/>
+
+<!-- ===================== TECH STACK ===================== -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frameworks & Libraries**
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+<br/>
+
+<!-- ===================== GITHUB STATS ===================== -->
+## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="30"> GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Eng-Hasan-Hajjar&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-Hasan-Hajjar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eng-Hasan-Hajjar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Eng-Hasan-Hajjar&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Trophies" />
+
+</div>
+
+<br/>
+
+<!-- ===================== ACTIVITY GRAPH ===================== -->
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eC/giphy.gif" width="30"> Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Eng-Hasan-Hajjar&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph" />
+
+</div>
+
+<!-- Snake animation (requires the GitHub Action — see setup note in README chat) -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Eng-Hasan-Hajjar/Eng-Hasan-Hajjar/output/snake.svg" alt="Snake animation" />
+</div>
+
+<br/>
+
+<!-- ===================== CONNECT ===================== -->
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eng-hasan-hajjar-198429248/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://eng-hasan-hajjar.github.io)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/19918830)
+[![X](https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/eng_hajjar)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hasan.safwan.94/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hasan.safwan.94/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eng.hasan.hajjar@gmail.com)
+
+</div>
+
+<!-- ===================== FOOTER ===================== -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0e75b6&height=120&section=footer" width="100%"/>
+
+⭐️ From [Eng-Hasan-Hajjar](https://github.com/Eng-Hasan-Hajjar)
+
+</div>
